@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FrontEnd</string>
+    <string name="hungry_hands">Hungry Hands</string>
+    <string name="name">Name</string>
+    <string name="todo">TODO</string>
+    <string name="Email">e.g iamhungry@food.com</string>
+    <string name="Password">e.g FOODXXXXX</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="Image">Image</string>
+
+
+
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="AppName">Hungry Hands</string>
+    <string name="loginbutton">Log In</string>
+    <string name="signuplinkbutton">sign up</string>
+    <string name="Loginlinkbutton">Login</string>
+    <string name="dont_have_an_account_yet">Dont have an account yet?</string>
+    <string name="example_my_csun_edu">example@my.csun.edu</string>
+    <string name="example_password">**********</string>
+    <string name="will_be_replaced">will be replaced</string>
+    <string name="have_an_account_">already have a account?</string>
+
+</resources>
